@@ -1,0 +1,48 @@
+@page
+@model DeliveryCart.Pages_Shoppers.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Shopper[0].ShopperName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shopper[0].ShopperEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shopper[0].ShopperPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Shopper) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopperName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopperEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShopperPhone)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ShopperID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ShopperID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ShopperID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\bin\Debug\net6.0\NameService.deps.json
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\bin\Debug\net6.0\NameService.dll
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\bin\Debug\net6.0\NameService.pdb
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.csproj.AssemblyReference.cache
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.AssemblyInfoInputs.cache
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.AssemblyInfo.cs
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.csproj.CoreCompileInputs.cache
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.dll
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\refint\NameService.dll
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\NameService.pdb
+C:\Users\athou\OneDrive\2022Fall\CIDM 4390 70\DeliveryCart\unit-testing-using-dotnet-test\NameService\obj\Debug\net6.0\ref\NameService.dll
